@@ -1,8 +1,8 @@
 <!-- ## Hi there 👋 -->
 
-<a href="https://github.com/andrewparr/andrewparr">
+<!-- a href="https://github.com/andrewparr/andrewparr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewparr&title_color=000000&text_color=000000" />
-</a>
+</a -->
 
 
 <!--
